@@ -19,7 +19,7 @@
 - ### PC
     <img src="./video/sitefinans_pc.gif">
 - ### MOBILE
-    <img src="./video/sitefinans_mobile.gif">
+    <img align="center" src="./video/sitefinans_mobile.gif">
 
 ## Autor
 @KaueNunez
